@@ -1,17 +1,16 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#: src/TimerRecordDialog.cpp:886 src/tracks/ui/Scrubbing.cpp:247
+# Irish translations for Audacity
+# This file is distributed under the same license as the audacity package.
+# Mícheál Mac Lochlainn <micilsheainmhicil@eircom.net>, 2005.
+# Mícheál Ó Meachair <michealomeachair@gmail.com>, 2017.
+# Kevin Scannell <kscanne@gmail.com>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: Gaelainn 2.0\n"
 "Report-Msgid-Bugs-To: audacity-translation@lists.sourceforge.net\n"
 "POT-Creation-Date: 2016-11-21 10:44+0000\n"
 "PO-Revision-Date: 2005-11-08 10:53-0000\n"
-"Last-Translator: Riarthóir <michealomeachair@gmail.com>\n"
-"Language-Team: Mícheál Ó Meachair <michealomeachair@gmail.com>\n"
+"Last-Translator: Mícheál Ó Meachair <michealomeachair@gmail.com>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
 "Language: ga\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
