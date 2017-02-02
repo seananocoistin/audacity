@@ -10,8 +10,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: audacity-translation@lists.sourceforge.net\n"
 "POT-Creation-Date: 2016-11-21 10:44+0000\n"
 "PO-Revision-Date: 2005-11-08 10:53-0000\n"
-"Last-Translator: Riarthóir <micilsheainmhicil@eircom.net>\n"
-"Language-Team: Mícheál Mac Lochlainn <micilsheainmhicil@eircom.net>\n"
+"Last-Translator: Riarthóir <michealomeachair@gmail.com>\n"
+"Language-Team: Mícheál Ó Meachair <michealomeachair@gmail.com>\n"
 "Language: ga\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,15 +22,15 @@ msgstr ""
 #: lib-src/FileDialog/gtk/FileDialogPrivate.cpp:75
 #, c-format
 msgid "File '%s' already exists, do you really want to overwrite it?"
-msgstr ""
+msgstr "Is ann don comhad '%s' cheana, an bhfuil tú cinnte gur mian leat é a fhorscríobh?"
 
 #: lib-src/FileDialog/gtk/FileDialogPrivate.cpp:78 src/LangChoice.cpp:135
 msgid "Confirm"
-msgstr ""
+msgstr "Deimhnigh"
 
 #: lib-src/FileDialog/gtk/FileDialogPrivate.cpp:91
 msgid "Please choose an existing file."
-msgstr ""
+msgstr "Roghnaigh comhad atá ann."
 
 #: lib-src/FileDialog/gtk/FileDialogPrivate.cpp:92 src/AutoRecovery.cpp:159
 #: src/AutoRecovery.cpp:196 src/Menus.cpp:4282 src/Menus.cpp:4294
